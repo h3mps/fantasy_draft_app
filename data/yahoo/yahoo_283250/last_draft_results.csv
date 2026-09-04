@@ -1,0 +1,211 @@
+round,pick,player,FTeam,is_keeper
+1,1,Ja'Marr Chase,The Hoodie,False
+1,2,Bijan Robinson,Sutton Ducks,False
+1,3,Justin Jefferson,Griddy Little Liars,False
+1,4,Saquon Barkley,Couch Potatoes,False
+1,5,Jahmyr Gibbs,Shake n' Bake,False
+1,6,CeeDee Lamb,Let's Ride,False
+1,7,Jonathan Taylor,Andrews Hall Pass,False
+1,8,Derrick Henry,Allen the Family 🦬,False
+1,9,Malik Nabers,Wherefore Art Thou Ws?,False
+1,10,Christian McCaffrey,Tyreek’s Left Knee,False
+1,11,Ashton Jeanty,Shake n' Bake,False
+1,12,Josh Jacobs,Pukachu,False
+1,13,Amon-Ra St. Brown,All Aboard the Achane,False
+1,14,Drake London,Pukachu,False
+2,1,Trey McBride,Pukachu,False
+2,2,Josh Allen,All Aboard the Achane,False
+2,3,Omarion Hampton,Pukachu,False
+2,4,James Cook III,Let Kelce Cook,False
+2,5,Lamar Jackson,Tyreek’s Left Knee,False
+2,6,A.J. Brown,Wherefore Art Thou Ws?,False
+2,7,Jalen Hurts,Allen the Family 🦬,False
+2,8,Breece Hall,Andrews Hall Pass,False
+2,9,Tee Higgins,Let's Ride,False
+2,10,Mike Evans,Shake n' Bake,False
+2,11,George Kittle,Couch Potatoes,False
+2,12,Kenneth Walker III,Griddy Little Liars,True
+2,13,James Conner,Sutton Ducks,False
+2,14,TreVeyon Henderson,Shake n' Bake,False
+3,1,Alvin Kamara,Let's Ride,False
+3,2,Joe Burrow,Sutton Ducks,False
+3,3,RJ Harvey,Griddy Little Liars,False
+3,4,Chase Brown,Couch Potatoes,True
+3,5,Marvin Harrison Jr.,Shake n' Bake,False
+3,6,Tony Pollard,Let's Ride,False
+3,7,Michael Pittman Jr.,Andrews Hall Pass,False
+3,8,Terry McLaurin,Allen the Family 🦬,False
+3,9,Tetairoa McMillan,Wherefore Art Thou Ws?,False
+3,10,Tyreek Hill,Tyreek’s Left Knee,False
+3,11,Isiah Pacheco,Let Kelce Cook,False
+3,12,Davante Adams,All Aboard the Achane,False
+3,13,Patrick Mahomes,All Aboard the Achane,False
+3,14,Jaxon Smith-Njigba,I’m Sorry Smith-Jaxon,True
+4,1,DeVonta Smith,I’m Sorry Smith-Jaxon,False
+4,2,D'Andre Swift,Shake n' Bake,False
+4,3,Jayden Daniels,Pukachu,True
+4,4,Tyrone Tracy Jr.,Let Kelce Cook,False
+4,5,George Pickens,Tyreek’s Left Knee,False
+4,6,DK Metcalf,Shake n' Bake,False
+4,7,Aaron Jones Sr.,Allen the Family 🦬,False
+4,8,David Montgomery,Andrews Hall Pass,False
+4,9,DJ Moore,Andrews Hall Pass,False
+4,10,Jordan Mason,Shake n' Bake,False
+4,11,Jaylen Waddle,Couch Potatoes,False
+4,12,Emeka Egbuka,Griddy Little Liars,False
+4,13,Sam LaPorta,Sutton Ducks,False
+4,14,Xavier Worthy,Let's Ride,True
+5,1,Zay Flowers,The Hoodie,False
+5,2,Courtland Sutton,Sutton Ducks,True
+5,3,Travis Hunter,Griddy Little Liars,False
+5,4,Brian Thomas Jr.,Couch Potatoes,True
+5,5,De'Von Achane,All Aboard the Achane,True
+5,6,Brock Bowers,Let's Ride,True
+5,7,Mark Andrews,Andrews Hall Pass,False
+5,8,Tucker Kraft,Allen the Family 🦬,False
+5,9,Kaleb Johnson,Wherefore Art Thou Ws?,False
+5,10,Jameson Williams,Tyreek’s Left Knee,True
+5,11,Travis Kelce,Let Kelce Cook,False
+5,12,Ladd McConkey,Pukachu,True
+5,13,Chris Olave,Sutton Ducks,False
+5,14,Jaylen Warren,I’m Sorry Smith-Jaxon,False
+6,1,Bo Nix,Let's Ride,False
+6,2,Baker Mayfield,Shake n' Bake,False
+6,3,Matthew Golden,Pukachu,False
+6,4,Tyler Warren,Shake n' Bake,False
+6,5,Zach Charbonnet,Tyreek’s Left Knee,False
+6,6,Chuba Hubbard,Wherefore Art Thou Ws?,True
+6,7,Khalil Shakir,Allen the Family 🦬,False
+6,8,C.J. Stroud,Andrews Hall Pass,False
+6,9,J.K. Dobbins,I’m Sorry Smith-Jaxon,False
+6,10,Rome Odunze,Shake n' Bake,False
+6,11,Jerry Jeudy,Couch Potatoes,False
+6,12,Jakobi Meyers,Griddy Little Liars,False
+6,13,Travis Etienne Jr.,Sutton Ducks,False
+6,14,Drake Maye,The Hoodie,False
+7,1,Jacory Croskey-Merritt,The Hoodie,False
+7,2,Rashee Rice,Sutton Ducks,True
+7,3,Jordan Addison,Griddy Little Liars,False
+7,4,Stefon Diggs,Couch Potatoes,False
+7,5,Tank Bigsby,All Aboard the Achane,False
+7,6,Jauan Jennings,Couch Potatoes,False
+7,7,Quinshon Judkins,Andrews Hall Pass,False
+7,8,Garrett Wilson,Allen the Family 🦬,True
+7,9,Keon Coleman,Wherefore Art Thou Ws?,False
+7,10,Deebo Samuel Sr.,Tyreek’s Left Knee,False
+7,11,Nico Collins,Let Kelce Cook,True
+7,12,Braelon Allen,Pukachu,False
+7,13,Trey Benson,Pukachu,False
+7,14,Evan Engram,I’m Sorry Smith-Jaxon,False
+8,1,Caleb Williams,I’m Sorry Smith-Jaxon,False
+8,2,Cam Skattebo,All Aboard the Achane,False
+8,3,Puka Nacua,Pukachu,True
+8,4,Brock Purdy,Let Kelce Cook,False
+8,5,Bhayshul Tuten,Tyreek’s Left Knee,False
+8,6,David Njoku,Wherefore Art Thou Ws?,False
+8,7,Austin Ekeler,Allen the Family 🦬,False
+8,8,Cooper Kupp,Andrews Hall Pass,False
+8,9,Jaydon Blue,Let's Ride,False
+8,10,Broncos,Shake n' Bake,False
+8,11,Rashod Bateman,Let Kelce Cook,False
+8,12,Dallas Goedert,Griddy Little Liars,False
+8,13,Brandon Aubrey,Sutton Ducks,False
+8,14,Javonte Williams,The Hoodie,False
+9,1,Calvin Ridley,The Hoodie,True
+9,2,Ravens,Sutton Ducks,False
+9,3,Dak Prescott,Griddy Little Liars,False
+9,4,Dylan Sampson,Couch Potatoes,False
+9,5,Colston Loveland,Shake n' Bake,False
+9,6,Ray Davis,Let's Ride,False
+9,7,Josh Downs,Andrews Hall Pass,True
+9,8,Luther Burden III,Allen the Family 🦬,False
+9,9,Jayden Reed,Wherefore Art Thou Ws?,False
+9,10,Jake Ferguson,Tyreek’s Left Knee,False
+9,11,Chris Godwin Jr.,Let Kelce Cook,False
+9,12,J.J. McCarthy,Pukachu,False
+9,13,T.J. Hockenson,All Aboard the Achane,True
+9,14,Eagles,Pukachu,False
+10,1,Vikings,I’m Sorry Smith-Jaxon,False
+10,2,Rhamondre Stevenson,All Aboard the Achane,False
+10,3,Xavier Legette,All Aboard the Achane,False
+10,4,Ollie Gordon II,Couch Potatoes,False
+10,5,Rachaad White,Tyreek’s Left Knee,False
+10,6,Justin Herbert,Wherefore Art Thou Ws?,False
+10,7,Dalton Kincaid,Allen the Family 🦬,False
+10,8,Bucky Irving,Andrews Hall Pass,True
+10,9,Jayden Higgins,Let's Ride,False
+10,10,Rashid Shaheed,Let Kelce Cook,False
+10,11,Woody Marks,Couch Potatoes,False
+10,12,Nick Chubb,Griddy Little Liars,False
+10,13,Jordan Love,Sutton Ducks,False
+10,14,Tyjae Spears,The Hoodie,False
+11,1,Hunter Henry,The Hoodie,False
+11,2,Brandon Aiyuk,Sutton Ducks,False
+11,3,Tyler Allgeier,Griddy Little Liars,False
+11,4,Kyler Murray,Couch Potatoes,True
+11,5,Justin Fields,Shake n' Bake,True
+11,6,Dont'e Thornton Jr.,Let's Ride,False
+11,7,Marvin Mims Jr.,Andrews Hall Pass,True
+11,8,Bryce Young,Allen the Family 🦬,False
+11,9,Brian Robinson,Wherefore Art Thou Ws?,False
+11,10,Keenan Allen,Tyreek’s Left Knee,False
+11,11,Chris Rodriguez Jr.,Let Kelce Cook,False
+11,12,Will Shipley,Pukachu,False
+11,13,Christian Kirk,All Aboard the Achane,False
+11,14,Kyren Williams,I’m Sorry Smith-Jaxon,True
+12,1,Najee Harris,I’m Sorry Smith-Jaxon,False
+12,2,Cedric Tillman,All Aboard the Achane,False
+12,3,Joshua Palmer,I’m Sorry Smith-Jaxon,False
+12,4,Wan'Dale Robinson,Let Kelce Cook,False
+12,5,Kyle Pitts Sr.,Tyreek’s Left Knee,False
+12,6,Rico Dowdle,Wherefore Art Thou Ws?,False
+12,7,Bills,Allen the Family 🦬,False
+12,8,Steelers,Andrews Hall Pass,False
+12,9,Ricky Pearsall,The Hoodie,True
+12,10,DeMario Douglas,The Hoodie,False
+12,11,Kyle Monangai,Couch Potatoes,False
+12,12,Tre' Harris,Griddy Little Liars,False
+12,13,Darnell Mooney,Sutton Ducks,True
+12,14,Texans,The Hoodie,False
+13,1,Cam Ward,The Hoodie,False
+13,2,Joe Mixon,All Aboard the Achane,False
+13,3,Cardinals,Griddy Little Liars,False
+13,4,Tory Horton,The Hoodie,False
+13,5,Kyle Williams,Wherefore Art Thou Ws?,False
+13,6,Michael Penix Jr.,Let's Ride,False
+13,7,Blake Corum,Andrews Hall Pass,False
+13,8,Isaac Guerendo,Allen the Family 🦬,False
+13,9,Jarquez Hunter,Wherefore Art Thou Ws?,False
+13,10,Chiefs,Tyreek’s Left Knee,False
+13,11,Kareem Hunt,Let Kelce Cook,False
+13,12,Jared Goff,I’m Sorry Smith-Jaxon,False
+13,13,Packers,All Aboard the Achane,False
+13,14,Roschon Johnson,I’m Sorry Smith-Jaxon,False
+14,1,Pat Bryant,I’m Sorry Smith-Jaxon,False
+14,2,Chig Okonkwo,All Aboard the Achane,False
+14,3,Cameron Dicker,Pukachu,False
+14,4,Elic Ayomanor,Let Kelce Cook,False
+14,5,Trevor Lawrence,Tyreek’s Left Knee,False
+14,6,Chargers,Wherefore Art Thou Ws?,False
+14,7,Tyler Bass,Allen the Family 🦬,False
+14,8,Michael Wilson,Andrews Hall Pass,False
+14,9,Cam Little,Let's Ride,False
+14,10,Jake Bates,Shake n' Bake,False
+14,11,49ers,Couch Potatoes,False
+14,12,Harrison Butker,Griddy Little Liars,False
+14,13,Jaylen Wright,Sutton Ducks,False
+14,14,Ka'imi Fairbairn,The Hoodie,False
+15,1,Elijah Arroyo,The Hoodie,False
+15,2,Adam Thielen,Sutton Ducks,False
+15,3,Jalen Coker,Griddy Little Liars,False
+15,4,Jaxson Dart,Couch Potatoes,False
+15,5,Jets,Let Kelce Cook,False
+15,6,Bengals,Let's Ride,False
+15,7,Brashard Smith,Let's Ride,False
+15,8,DJ Giddens,Allen the Family 🦬,False
+15,9,Chris Boswell,Wherefore Art Thou Ws?,False
+15,10,Jake Elliott,Tyreek’s Left Knee,False
+15,11,Wil Lutz,Let Kelce Cook,False
+15,12,Isaac TeSlaa,Pukachu,False
+15,13,Chase McLaughlin,I’m Sorry Smith-Jaxon,False
+15,14,Mason Taylor,I’m Sorry Smith-Jaxon,False

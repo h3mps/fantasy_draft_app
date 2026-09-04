@@ -1,0 +1,7 @@
+# Sensitive files
+cookies.json
+*.env
+.env
+__pycache__/
+*.pyc
+.DS_Store

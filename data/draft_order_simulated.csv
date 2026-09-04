@@ -1,0 +1,211 @@
+pick_number,round,orig_owner,team
+1,1,Allen the Family 🦬,Allen the Family 🦬
+2,1,Andrews Hall Pass,Let's Ride
+3,1,Couch Potatoes,Couch Potatoes
+4,1,Griddy Little Liars,Griddy Little Liars
+5,1,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+6,1,Let Kelce Cook,Let Kelce Cook
+7,1,Let's Ride,Let's Ride
+8,1,All Aboard the Achane,All Aboard the Achane
+9,1,Pukachu,Couch Potatoes
+10,1,Shake n' Bake,Shake n' Bake
+11,1,Sutton Ducks,Sutton Ducks
+12,1,The Hoodie,The Hoodie
+13,1,Tyreek’s Left Knee,Tyreek’s Left Knee
+14,1,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+15,2,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+16,2,Tyreek’s Left Knee,Tyreek’s Left Knee
+17,2,The Hoodie,The Hoodie
+18,2,Sutton Ducks,Sutton Ducks
+19,2,Shake n' Bake,Shake n' Bake
+20,2,Pukachu,Pukachu
+21,2,All Aboard the Achane,All Aboard the Achane
+22,2,Let's Ride,Let's Ride
+23,2,Let Kelce Cook,Let Kelce Cook
+24,2,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+25,2,Griddy Little Liars,Griddy Little Liars
+26,2,Couch Potatoes,Couch Potatoes
+27,2,Andrews Hall Pass,Andrews Hall Pass
+28,2,Allen the Family 🦬,Allen the Family 🦬
+29,3,Allen the Family 🦬,Allen the Family 🦬
+30,3,Andrews Hall Pass,Andrews Hall Pass
+31,3,Couch Potatoes,Couch Potatoes
+32,3,Griddy Little Liars,Griddy Little Liars
+33,3,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+34,3,Let Kelce Cook,Let Kelce Cook
+35,3,Let's Ride,Let's Ride
+36,3,All Aboard the Achane,All Aboard the Achane
+37,3,Pukachu,Let's Ride
+38,3,Shake n' Bake,Shake n' Bake
+39,3,Sutton Ducks,Sutton Ducks
+40,3,The Hoodie,Couch Potatoes
+41,3,Tyreek’s Left Knee,Tyreek’s Left Knee
+42,3,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+43,4,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+44,4,Tyreek’s Left Knee,Tyreek’s Left Knee
+45,4,The Hoodie,Let's Ride
+46,4,Sutton Ducks,Sutton Ducks
+47,4,Shake n' Bake,Shake n' Bake
+48,4,Pukachu,Pukachu
+49,4,All Aboard the Achane,All Aboard the Achane
+50,4,Let's Ride,Let's Ride
+51,4,Let Kelce Cook,Let Kelce Cook
+52,4,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+53,4,Griddy Little Liars,Griddy Little Liars
+54,4,Couch Potatoes,Couch Potatoes
+55,4,Andrews Hall Pass,Andrews Hall Pass
+56,4,Allen the Family 🦬,Allen the Family 🦬
+57,5,Allen the Family 🦬,Allen the Family 🦬
+58,5,Andrews Hall Pass,Let Kelce Cook
+59,5,Couch Potatoes,Couch Potatoes
+60,5,Griddy Little Liars,Griddy Little Liars
+61,5,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+62,5,Let Kelce Cook,Let Kelce Cook
+63,5,Let's Ride,Pukachu
+64,5,All Aboard the Achane,All Aboard the Achane
+65,5,Pukachu,Pukachu
+66,5,Shake n' Bake,Griddy Little Liars
+67,5,Sutton Ducks,Sutton Ducks
+68,5,The Hoodie,The Hoodie
+69,5,Tyreek’s Left Knee,Tyreek’s Left Knee
+70,5,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+71,6,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+72,6,Tyreek’s Left Knee,Tyreek’s Left Knee
+73,6,The Hoodie,The Hoodie
+74,6,Sutton Ducks,Sutton Ducks
+75,6,Shake n' Bake,Shake n' Bake
+76,6,Pukachu,Pukachu
+77,6,All Aboard the Achane,Let Kelce Cook
+78,6,Let's Ride,The Hoodie
+79,6,Let Kelce Cook,Let Kelce Cook
+80,6,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+81,6,Griddy Little Liars,Griddy Little Liars
+82,6,Couch Potatoes,Couch Potatoes
+83,6,Andrews Hall Pass,Andrews Hall Pass
+84,6,Allen the Family 🦬,Allen the Family 🦬
+85,7,Allen the Family 🦬,Allen the Family 🦬
+86,7,Andrews Hall Pass,Let's Ride
+87,7,Couch Potatoes,Couch Potatoes
+88,7,Griddy Little Liars,Griddy Little Liars
+89,7,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+90,7,Let Kelce Cook,Let Kelce Cook
+91,7,Let's Ride,Let's Ride
+92,7,All Aboard the Achane,All Aboard the Achane
+93,7,Pukachu,Pukachu
+94,7,Shake n' Bake,Shake n' Bake
+95,7,Sutton Ducks,Sutton Ducks
+96,7,The Hoodie,The Hoodie
+97,7,Tyreek’s Left Knee,Tyreek’s Left Knee
+98,7,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+99,8,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+100,8,Tyreek’s Left Knee,Tyreek’s Left Knee
+101,8,The Hoodie,The Hoodie
+102,8,Sutton Ducks,Sutton Ducks
+103,8,Shake n' Bake,Shake n' Bake
+104,8,Pukachu,Pukachu
+105,8,All Aboard the Achane,All Aboard the Achane
+106,8,Let's Ride,Let's Ride
+107,8,Let Kelce Cook,Let Kelce Cook
+108,8,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+109,8,Griddy Little Liars,Griddy Little Liars
+110,8,Couch Potatoes,The Hoodie
+111,8,Andrews Hall Pass,Andrews Hall Pass
+112,8,Allen the Family 🦬,Allen the Family 🦬
+113,9,Allen the Family 🦬,Allen the Family 🦬
+114,9,Andrews Hall Pass,Andrews Hall Pass
+115,9,Couch Potatoes,Couch Potatoes
+116,9,Griddy Little Liars,Griddy Little Liars
+117,9,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+118,9,Let Kelce Cook,Let Kelce Cook
+119,9,Let's Ride,Let's Ride
+120,9,All Aboard the Achane,All Aboard the Achane
+121,9,Pukachu,Pukachu
+122,9,Shake n' Bake,Shake n' Bake
+123,9,Sutton Ducks,Sutton Ducks
+124,9,The Hoodie,The Hoodie
+125,9,Tyreek’s Left Knee,Tyreek’s Left Knee
+126,9,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+127,10,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+128,10,Tyreek’s Left Knee,Tyreek’s Left Knee
+129,10,The Hoodie,The Hoodie
+130,10,Sutton Ducks,Sutton Ducks
+131,10,Shake n' Bake,Shake n' Bake
+132,10,Pukachu,Pukachu
+133,10,All Aboard the Achane,All Aboard the Achane
+134,10,Let's Ride,Andrews Hall Pass
+135,10,Let Kelce Cook,Let Kelce Cook
+136,10,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+137,10,Griddy Little Liars,Griddy Little Liars
+138,10,Couch Potatoes,Couch Potatoes
+139,10,Andrews Hall Pass,Griddy Little Liars
+140,10,Allen the Family 🦬,Allen the Family 🦬
+141,11,Allen the Family 🦬,Allen the Family 🦬
+142,11,Andrews Hall Pass,Andrews Hall Pass
+143,11,Couch Potatoes,Pukachu
+144,11,Griddy Little Liars,Griddy Little Liars
+145,11,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+146,11,Let Kelce Cook,All Aboard the Achane
+147,11,Let's Ride,Let's Ride
+148,11,All Aboard the Achane,All Aboard the Achane
+149,11,Pukachu,Pukachu
+150,11,Shake n' Bake,Shake n' Bake
+151,11,Sutton Ducks,Sutton Ducks
+152,11,The Hoodie,Couch Potatoes
+153,11,Tyreek’s Left Knee,Tyreek’s Left Knee
+154,11,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+155,12,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+156,12,Tyreek’s Left Knee,Tyreek’s Left Knee
+157,12,The Hoodie,The Hoodie
+158,12,Sutton Ducks,Sutton Ducks
+159,12,Shake n' Bake,Shake n' Bake
+160,12,Pukachu,Pukachu
+161,12,All Aboard the Achane,All Aboard the Achane
+162,12,Let's Ride,Andrews Hall Pass
+163,12,Let Kelce Cook,Let Kelce Cook
+164,12,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+165,12,Griddy Little Liars,Griddy Little Liars
+166,12,Couch Potatoes,The Hoodie
+167,12,Andrews Hall Pass,Andrews Hall Pass
+168,12,Allen the Family 🦬,Allen the Family 🦬
+169,13,Allen the Family 🦬,Allen the Family 🦬
+170,13,Andrews Hall Pass,Andrews Hall Pass
+171,13,Couch Potatoes,Couch Potatoes
+172,13,Griddy Little Liars,Griddy Little Liars
+173,13,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+174,13,Let Kelce Cook,Let Kelce Cook
+175,13,Let's Ride,Let's Ride
+176,13,All Aboard the Achane,All Aboard the Achane
+177,13,Pukachu,Pukachu
+178,13,Shake n' Bake,Shake n' Bake
+179,13,Sutton Ducks,Sutton Ducks
+180,13,The Hoodie,The Hoodie
+181,13,Tyreek’s Left Knee,Tyreek’s Left Knee
+182,13,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+183,14,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?
+184,14,Tyreek’s Left Knee,Tyreek’s Left Knee
+185,14,The Hoodie,The Hoodie
+186,14,Sutton Ducks,Sutton Ducks
+187,14,Shake n' Bake,Shake n' Bake
+188,14,Pukachu,Pukachu
+189,14,All Aboard the Achane,All Aboard the Achane
+190,14,Let's Ride,Let's Ride
+191,14,Let Kelce Cook,Andrews Hall Pass
+192,14,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+193,14,Griddy Little Liars,Andrews Hall Pass
+194,14,Couch Potatoes,Couch Potatoes
+195,14,Andrews Hall Pass,Andrews Hall Pass
+196,14,Allen the Family 🦬,Allen the Family 🦬
+197,15,Allen the Family 🦬,Allen the Family 🦬
+198,15,Andrews Hall Pass,Andrews Hall Pass
+199,15,Couch Potatoes,Couch Potatoes
+200,15,Griddy Little Liars,Shake n' Bake
+201,15,I’m Sorry Smith-Jaxon,I’m Sorry Smith-Jaxon
+202,15,Let Kelce Cook,Let Kelce Cook
+203,15,Let's Ride,Let's Ride
+204,15,All Aboard the Achane,All Aboard the Achane
+205,15,Pukachu,Pukachu
+206,15,Shake n' Bake,Shake n' Bake
+207,15,Sutton Ducks,Sutton Ducks
+208,15,The Hoodie,The Hoodie
+209,15,Tyreek’s Left Knee,Tyreek’s Left Knee
+210,15,Wherefore Art Thou Ws?,Wherefore Art Thou Ws?

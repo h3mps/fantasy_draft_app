@@ -1,0 +1,211 @@
+round,pick,player,FTeam,is_keeper
+1,1,Christian McCaffrey,Love Thy Nabers,False
+1,2,Breece Hall,Couch Potatoes,False
+1,3,Tyreek Hill,Kyrenning Up,False
+1,4,Bijan Robinson,Greg & Gus D,False
+1,5,CeeDee Lamb,The Talented,False
+1,6,Amon-Ra St. Brown,All Aboard t,False
+1,7,Ja'Marr Chase,The Mostert ,False
+1,8,Justin Jefferson,Pukachu,False
+1,9,Saquon Barkley,Kyrenning Up,False
+1,10,A.J. Brown,Wherefore Ar,False
+1,11,Jahmyr Gibbs,Kirk’s Cou,False
+1,12,Davante Adams,Purdy Fly Fo,False
+1,13,Derrick Henry,The Hoodie,False
+1,14,Marvin Harrison Jr.,Couch Potatoes,False
+2,1,Josh Allen,Let's Ride,False
+2,2,Cooper Kupp,The Hoodie,False
+2,3,Deebo Samuel,Purdy Fly Fo,False
+2,4,Brandon Aiyuk,Kirk’s Cou,False
+2,5,Jalen Hurts,Wherefore Ar,False
+2,6,Patrick Mahomes,Kyrenning Up,False
+2,7,Jonathan Taylor,Pukachu,True
+2,8,DJ Moore,Kyrenning Up,False
+2,9,Jaylen Waddle,All Aboard t,False
+2,10,Chris Olave,The Talented,True
+2,11,Josh Jacobs,Greg & Gus D,False
+2,12,James Cook,All Aboard t,False
+2,13,Travis Kelce,Couch Potatoes,False
+2,14,DK Metcalf,Love Thy Nabers,False
+3,1,Malik Nabers,Love Thy Nabers,False
+3,2,Rachaad White,Couch Potatoes,False
+3,3,Joe Mixon,Yard Sale…,False
+3,4,Lamar Jackson,Greg & Gus D,False
+3,5,Isiah Pacheco,The Talented,True
+3,6,C.J. Stroud,All Aboard t,False
+3,7,Alvin Kamara,The Mostert ,False
+3,8,Anthony Richardson Sr.,Pukachu,False
+3,9,Trey McBride,Kyrenning Up,False
+3,10,Amari Cooper,Wherefore Ar,False
+3,11,Aaron Jones Sr.,Kirk’s Cou,False
+3,12,Najee Harris,Purdy Fly Fo,False
+3,13,Stefon Diggs,The Hoodie,False
+3,14,Drake London,Let's Ride,True
+4,1,DeVonta Smith,Pukachu,False
+4,2,James Conner,The Hoodie,False
+4,3,Kenneth Walker III,Purdy Fly Fo,True
+4,4,Mike Evans,Kirk’s Cou,True
+4,5,Terry McLaurin,All Aboard t,False
+4,6,David Montgomery,Kyrenning Up,False
+4,7,Mark Andrews,Pukachu,False
+4,8,Michael Pittman Jr.,The Mostert ,False
+4,9,George Pickens,All Aboard t,False
+4,10,Rhamondre Stevenson,Pukachu,False
+4,11,Zay Flowers,Greg & Gus D,False
+4,12,Kyle Pitts Sr.,All Aboard t,False
+4,13,Tee Higgins,Couch Potatoes,False
+4,14,D'Andre Swift,Love Thy Nabers,False
+5,1,Jordan Love,Love Thy Nabers,False
+5,2,Zamir White,Let's Ride,False
+5,3,Diontae Johnson,Yard Sale…,False
+5,4,Christian Watson,Greg & Gus D,False
+5,5,Javonte Williams,The Talented,False
+5,6,Chase Brown,All Aboard t,False
+5,7,Dak Prescott,The Mostert ,False
+5,8,Devin Singletary,Pukachu,False
+5,9,Jaxon Smith-Njigba,Kyrenning Up,False
+5,10,Travis Etienne Jr.,Wherefore Ar,True
+5,11,Joe Burrow,Kirk’s Cou,False
+5,12,Tony Pollard,Purdy Fly Fo,False
+5,13,George Kittle,The Hoodie,False
+5,14,Rome Odunze,Let's Ride,False
+6,1,Xavier Worthy,Let's Ride,False
+6,2,Chris Godwin Jr.,The Hoodie,False
+6,3,Jake Ferguson,Purdy Fly Fo,False
+6,4,Evan Engram,Kirk’s Cou,False
+6,5,Zack Moss,All Aboard t,False
+6,6,Tyjae Spears,Kyrenning Up,False
+6,7,Jerome Ford,Pukachu,False
+6,8,Raheem Mostert,The Mostert ,True
+6,9,Jonathon Brooks,All Aboard t,False
+6,10,Caleb Williams,The Hoodie,False
+6,11,David Njoku,Greg & Gus D,False
+6,12,Jayden Daniels,Pukachu,False
+6,13,Christian Kirk,Couch Potatoes,False
+6,14,Nick Chubb,Love Thy Nabers,False
+7,1,Brian Robinson Jr.,Love Thy Nabers,True
+7,2,Brian Thomas Jr.,Couch Potatoes,False
+7,3,Keenan Allen,Yard Sale…,False
+7,4,Jameson Williams,Greg & Gus D,False
+7,5,Ladd McConkey,Pukachu,False
+7,6,De'Von Achane,All Aboard t,True
+7,7,Rico Dowdle,The Mostert ,False
+7,8,Sam LaPorta,Pukachu,True
+7,9,Cleveland,Kyrenning Up,False
+7,10,Khalil Shakir,The Hoodie,False
+7,11,Courtland Sutton,Kirk’s Cou,False
+7,12,Jordan Addison,Purdy Fly Fo,False
+7,13,Jared Goff,The Hoodie,False
+7,14,Brock Bowers,Let's Ride,False
+8,1,Jaylen Warren,Let's Ride,True
+8,2,Austin Ekeler,The Hoodie,False
+8,3,Brock Purdy,Purdy Fly Fo,True
+8,4,Blake Corum,Kirk’s Cou,False
+8,5,Chuba Hubbard,Wherefore Ar,False
+8,6,DeAndre Hopkins,Yard Sale…,False
+8,7,Trey Benson,Pukachu,False
+8,8,Dallas Goedert,The Mostert ,False
+8,9,Trevor Lawrence,All Aboard t,False
+8,10,Keon Coleman,The Talented,False
+8,11,Joshua Palmer,Greg & Gus D,False
+8,12,Pat Freiermuth,Yard Sale…,False
+8,13,Hollywood Brown,Couch Potatoes,False
+8,14,Dalton Kincaid,Love Thy Nabers,True
+9,1,Nico Collins,Love Thy Nabers,True
+9,2,Jayden Reed,Couch Potatoes,True
+9,3,J.K. Dobbins,Yard Sale…,False
+9,4,Gus Edwards,Greg & Gus D,True
+9,5,Zach Charbonnet,The Talented,False
+9,6,Rashee Rice,All Aboard t,True
+9,7,Garrett Wilson,The Mostert ,True
+9,8,Baltimore,Pukachu,False
+9,9,Rashid Shaheed,Kyrenning Up,False
+9,10,Romeo Doubs,Wherefore Ar,False
+9,11,San Francisco,Kirk’s Cou,False
+9,12,Adonai Mitchell,Purdy Fly Fo,False
+9,13,Ezekiel Elliott,The Hoodie,False
+9,14,Jaleel McLaughlin,Let's Ride,False
+10,1,Dontayvion Wicks,Let's Ride,False
+10,2,Mike Williams,The Hoodie,False
+10,3,Justin Herbert,Purdy Fly Fo,False
+10,4,Kirk Cousins,Kirk’s Cou,False
+10,5,Curtis Samuel,Wherefore Ar,False
+10,6,Dalton Schultz,Kyrenning Up,False
+10,7,Puka Nacua,Pukachu,True
+10,8,Jakobi Meyers,The Mostert ,False
+10,9,Tua Tagovailoa,Yard Sale…,True
+10,10,New York,The Hoodie,False
+10,11,Matthew Stafford,Greg & Gus D,False
+10,12,Ja'Lynn Polk,Yard Sale…,False
+10,13,Antonio Gibson,Couch Potatoes,False
+10,14,Tyler Lockett,Love Thy Nabers,False
+11,1,Jaylen Wright,Love Thy Nabers,False
+11,2,T.J. Hockenson,Couch Potatoes,False
+11,3,Josh Downs,Yard Sale…,False
+11,4,Brandin Cooks,Greg & Gus D,False
+11,5,Calvin Ridley,The Talented,True
+11,6,Luke Musgrave,Wherefore Ar,False
+11,7,Jordan Mason,The Mostert ,False
+11,8,Ty Chandler,The Talented,False
+11,9,Tyler Allgeier,The Mostert ,False
+11,10,MarShawn Lloyd,Wherefore Ar,False
+11,11,Gabe Davis,Kirk’s Cou,False
+11,12,Jerry Jeudy,Purdy Fly Fo,False
+11,13,Kimani Vidal,Wherefore Ar,False
+11,14,Carson Steele,Let's Ride,False
+12,1,Tank Dell,Let's Ride,True
+12,2,Justin Tucker,The Hoodie,False
+12,3,Dallas,Purdy Fly Fo,False
+12,4,Brandon Aubrey,Kirk’s Cou,False
+12,5,Kansas City,Wherefore Ar,False
+12,6,Harrison Butker,Kyrenning Up,False
+12,7,Will Levis,The Talented,False
+12,8,Deshaun Watson,The Mostert ,False
+12,9,Pittsburgh,All Aboard t,False
+12,10,Ray Davis,The Talented,False
+12,11,Buffalo,Greg & Gus D,False
+12,12,Bucky Irving,Yard Sale…,False
+12,13,Cincinnati,Couch Potatoes,False
+12,14,Taysom Hill,Love Thy Nabers,False
+13,1,Jalen McMillan,Love Thy Nabers,False
+13,2,Kyler Murray,Couch Potatoes,True
+13,3,Marvin Mims Jr.,Yard Sale…,False
+13,4,Braelon Allen,Greg & Gus D,False
+13,5,Justin Fields,The Talented,False
+13,6,Ben Sinnott,All Aboard t,False
+13,7,Miami,The Mostert ,False
+13,8,Kendre Miller,Yard Sale…,False
+13,9,Kyren Williams,Kyrenning Up,True
+13,10,Khalil Herbert,Wherefore Ar,False
+13,11,Cole Kmet,Kirk’s Cou,False
+13,12,Tank Bigsby,Purdy Fly Fo,False
+13,13,Tyler Conklin,The Talented,False
+13,14,New Orleans,Let's Ride,False
+14,1,Bo Nix,Let's Ride,False
+14,2,Ricky Pearsall,The Hoodie,False
+14,3,Ka'imi Fairbairn,Purdy Fly Fo,False
+14,4,Tyrone Tracy Jr.,Kirk’s Cou,False
+14,5,Jake Elliott,Wherefore Ar,False
+14,6,DeMario Douglas,Kyrenning Up,False
+14,7,Evan McPherson,Pukachu,False
+14,8,Jason Sanders,The Mostert ,False
+14,9,Bryce Young,Yard Sale…,False
+14,10,Isaiah Likely,The Talented,False
+14,11,Xavier Legette,Greg & Gus D,False
+14,12,Andrei Iosivas,Yard Sale…,False
+14,13,Keaton Mitchell,Couch Potatoes,False
+14,14,Chicago,Love Thy Nabers,False
+15,1,Younghoe Koo,Love Thy Nabers,False
+15,2,Malik Washington,Couch Potatoes,False
+15,3,Philadelphia,Yard Sale…,False
+15,4,Greg Zuerlein,Greg & Gus D,False
+15,5,Houston,The Talented,False
+15,6,Dameon Pierce,Wherefore Ar,False
+15,7,Michael Wilson,The Mostert ,False
+15,8,Audric Estime,Let's Ride,False
+15,9,Jamari Thrash,Kyrenning Up,False
+15,10,Aaron Rodgers,Wherefore Ar,False
+15,11,Darnell Mooney,Kirk’s Cou,False
+15,12,Cam Akers,Purdy Fly Fo,False
+15,13,Luke McCaffrey,The Talented,False
+15,14,Drake Maye,Let's Ride,False
