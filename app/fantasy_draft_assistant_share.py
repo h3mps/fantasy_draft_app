@@ -87,7 +87,7 @@ def _assign_tiers_by_position(df, position_col="Position", score_col="Fan Pts", 
 
 
 sys.path.append(str(Path(__file__).parent.parent / "src"))
-from read_yahoo import *
+# from read_yahoo import *
 
 st.set_page_config(page_title="Fantasy Prep", layout="wide")
 st.title("🏈 Fantasy Draft Preparation Assistant")
